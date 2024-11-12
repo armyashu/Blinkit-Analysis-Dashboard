@@ -1,3 +1,4 @@
+BLINKIT ANALYSIS DASHBOARD
 I'm excited to share my  project analyzing data from Blinkit (formerly Grofers) to gain insights into customer behavior, purchasing trends, and operational efficiencies in the grocery delivery space!
 
 objective: To conduct a comprehensive analysis of blink it's sales performance, customer satisfaction, and inventory distribution to identify key and opportunities for optimization using various KPIs and visualization in power bi.
